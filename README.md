@@ -14,8 +14,16 @@
 
 # [*Website Visual Studio Code*](http://https://code.visualstudio.com/ "Website Visual Studio Code")
 
+- Editor de código utilizado para la creación del clon de Google.
+- Editor perteneciente a la empresa Microsoft.
+
+
+
 # GitHub Pages de Clone de Google
 
-![](https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png)
+![](https://icon-library.com/images/github-icon-png/github-icon-png-2.jpg)
 
 # [*Link GitHub Pages de Clone de Google*](https://axelazul.github.io/CloneDeGoogle.github.io/ "GitHub Pages de Clon de Google")
+
+- Link directo al dominio de respaldo de GitHub Pages en el cual se encuentra soportado el sitio del clon.
+- Espero contar con sus estrellas para este humilde servidor y estudiante.
