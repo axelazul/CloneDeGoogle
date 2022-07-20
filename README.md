@@ -12,8 +12,10 @@
 
 ![](https://miro.medium.com/max/512/1*Nj1UFgSPsXolWicqDC1hwg.png)
 
-# ![*Website Visual Studio Code*](http://https://code.visualstudio.com/ "Website Visual Studio Code")
+# [*Website Visual Studio Code*](http://https://code.visualstudio.com/ "Website Visual Studio Code")
 
 # GitHub Pages de Clone de Google
 
-![GitHub Pages](https://axelazul.github.io/CloneDeGoogle.github.io/ "GitHub Pages")
+![](https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png)
+
+# [*Link GitHub Pages de Clone de Google*](https://axelazul.github.io/CloneDeGoogle.github.io/ "GitHub Pages de Clon de Google")
