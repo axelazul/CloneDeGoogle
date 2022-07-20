@@ -1,4 +1,4 @@
- ** *CLONE DE GOOGLE* **
+ #CLONE DE GOOGLE
 
 ![Google Icon](https://cdn-icons-png.flaticon.com/128/300/300221.png "Google Icon") 
 
